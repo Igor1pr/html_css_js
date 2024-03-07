@@ -1,2 +1,2 @@
 # html_css_js
- Primeiros estudos sobre o desenvolvimento de páginas web.
+ Início de estudos sobre o desenvolvimento de páginas web.
